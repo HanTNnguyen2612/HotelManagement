@@ -1,0 +1,43 @@
+E:\PRN212\HotelManegementSystem\BussinessObject\bin\Debug\net8.0\BussinessObject.deps.json
+E:\PRN212\HotelManegementSystem\BussinessObject\bin\Debug\net8.0\BussinessObject.runtimeconfig.json
+E:\PRN212\HotelManegementSystem\BussinessObject\bin\Debug\net8.0\BussinessObject.dll
+E:\PRN212\HotelManegementSystem\BussinessObject\bin\Debug\net8.0\BussinessObject.pdb
+E:\PRN212\HotelManegementSystem\BussinessObject\obj\Debug\net8.0\BussinessObject.csproj.AssemblyReference.cache
+E:\PRN212\HotelManegementSystem\BussinessObject\obj\Debug\net8.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN212\HotelManegementSystem\BussinessObject\obj\Debug\net8.0\BussinessObject.AssemblyInfoInputs.cache
+E:\PRN212\HotelManegementSystem\BussinessObject\obj\Debug\net8.0\BussinessObject.AssemblyInfo.cs
+E:\PRN212\HotelManegementSystem\BussinessObject\obj\Debug\net8.0\BussinessObject.csproj.CoreCompileInputs.cache
+E:\PRN212\HotelManegementSystem\BussinessObject\obj\Debug\net8.0\BussinessObject.dll
+E:\PRN212\HotelManegementSystem\BussinessObject\obj\Debug\net8.0\refint\BussinessObject.dll
+E:\PRN212\HotelManegementSystem\BussinessObject\obj\Debug\net8.0\BussinessObject.pdb
+E:\PRN212\HotelManegementSystem\BussinessObject\obj\Debug\net8.0\BussinessObject.genruntimeconfig.cache
+E:\PRN212\HotelManegementSystem\BussinessObject\obj\Debug\net8.0\ref\BussinessObject.dll
+E:\PRN212\HotelManegementSystem\BussinessObject\obj\Debug\net8.0\BussinessObject.sourcelink.json
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\BussinessObject\bin\Debug\net8.0\BussinessObject.deps.json
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\BussinessObject\bin\Debug\net8.0\BussinessObject.runtimeconfig.json
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\BussinessObject\bin\Debug\net8.0\BussinessObject.dll
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\BussinessObject\bin\Debug\net8.0\BussinessObject.pdb
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\BussinessObject\obj\Debug\net8.0\BussinessObject.csproj.AssemblyReference.cache
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\BussinessObject\obj\Debug\net8.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\BussinessObject\obj\Debug\net8.0\BussinessObject.AssemblyInfoInputs.cache
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\BussinessObject\obj\Debug\net8.0\BussinessObject.AssemblyInfo.cs
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\BussinessObject\obj\Debug\net8.0\BussinessObject.csproj.CoreCompileInputs.cache
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\BussinessObject\obj\Debug\net8.0\BussinessObject.dll
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\BussinessObject\obj\Debug\net8.0\refint\BussinessObject.dll
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\BussinessObject\obj\Debug\net8.0\BussinessObject.pdb
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\BussinessObject\obj\Debug\net8.0\BussinessObject.genruntimeconfig.cache
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\BussinessObject\obj\Debug\net8.0\ref\BussinessObject.dll
+D:\Suoc\HotelManegement_WPFAPP\BussinessObject\bin\Debug\net8.0\BussinessObject.deps.json
+D:\Suoc\HotelManegement_WPFAPP\BussinessObject\bin\Debug\net8.0\BussinessObject.runtimeconfig.json
+D:\Suoc\HotelManegement_WPFAPP\BussinessObject\bin\Debug\net8.0\BussinessObject.dll
+D:\Suoc\HotelManegement_WPFAPP\BussinessObject\bin\Debug\net8.0\BussinessObject.pdb
+D:\Suoc\HotelManegement_WPFAPP\BussinessObject\obj\Debug\net8.0\BussinessObject.csproj.AssemblyReference.cache
+D:\Suoc\HotelManegement_WPFAPP\BussinessObject\obj\Debug\net8.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Suoc\HotelManegement_WPFAPP\BussinessObject\obj\Debug\net8.0\BussinessObject.AssemblyInfoInputs.cache
+D:\Suoc\HotelManegement_WPFAPP\BussinessObject\obj\Debug\net8.0\BussinessObject.AssemblyInfo.cs
+D:\Suoc\HotelManegement_WPFAPP\BussinessObject\obj\Debug\net8.0\BussinessObject.csproj.CoreCompileInputs.cache
+D:\Suoc\HotelManegement_WPFAPP\BussinessObject\obj\Debug\net8.0\BussinessObject.dll
+D:\Suoc\HotelManegement_WPFAPP\BussinessObject\obj\Debug\net8.0\refint\BussinessObject.dll
+D:\Suoc\HotelManegement_WPFAPP\BussinessObject\obj\Debug\net8.0\BussinessObject.pdb
+D:\Suoc\HotelManegement_WPFAPP\BussinessObject\obj\Debug\net8.0\BussinessObject.genruntimeconfig.cache
+D:\Suoc\HotelManegement_WPFAPP\BussinessObject\obj\Debug\net8.0\ref\BussinessObject.dll

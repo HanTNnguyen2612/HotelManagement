@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Suoc\\HotelManegement_WPFAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80E2D443-C4A8-4295-833A-BCBBA8AE4497}|DataAccessLayer\\DataAccessLayer.csproj|d:\\suoc\\hotelmanegement_wpfapp\\dataaccesslayer\\migrations\\hotelmanagementcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E2D443-C4A8-4295-833A-BCBBA8AE4497}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\hotelmanagementcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3191DAD5-5DB3-464B-A197-F2195B102E11}|WpfApp\\WpfApp.csproj|d:\\suoc\\hotelmanegement_wpfapp\\wpfapp\\wpfapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3191DAD5-5DB3-464B-A197-F2195B102E11}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\wpfapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBBED06-E56A-4106-A207-907AE1A796A7}|Repository\\Repository.csproj|d:\\suoc\\hotelmanegement_wpfapp\\repository\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DBBED06-E56A-4106-A207-907AE1A796A7}|Repository\\Repository.csproj|solutionrelative:repository\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBBED06-E56A-4106-A207-907AE1A796A7}|Repository\\Repository.csproj|d:\\suoc\\hotelmanegement_wpfapp\\repository\\roominformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DBBED06-E56A-4106-A207-907AE1A796A7}|Repository\\Repository.csproj|solutionrelative:repository\\roominformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E2D443-C4A8-4295-833A-BCBBA8AE4497}|DataAccessLayer\\DataAccessLayer.csproj|d:\\suoc\\hotelmanegement_wpfapp\\dataaccesslayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80E2D443-C4A8-4295-833A-BCBBA8AE4497}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WpfApp",
+              "DocumentMoniker": "D:\\Suoc\\HotelManegement_WPFAPP\\WpfApp\\WpfApp.csproj",
+              "RelativeDocumentMoniker": "WpfApp\\WpfApp.csproj",
+              "ToolTip": "D:\\Suoc\\HotelManegement_WPFAPP\\WpfApp\\WpfApp.csproj",
+              "RelativeToolTip": "WpfApp\\WpfApp.csproj",
+              "ViewState": "AgIAABcAAADA2imdg4sWwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-01T04:08:53.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomTypeRepository.cs",
+              "DocumentMoniker": "D:\\Suoc\\HotelManegement_WPFAPP\\Repository\\RoomTypeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\RoomTypeRepository.cs",
+              "ToolTip": "D:\\Suoc\\HotelManegement_WPFAPP\\Repository\\RoomTypeRepository.cs",
+              "RelativeToolTip": "Repository\\RoomTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T04:07:23.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomInformationRepository.cs",
+              "DocumentMoniker": "D:\\Suoc\\HotelManegement_WPFAPP\\Repository\\RoomInformationRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\RoomInformationRepository.cs",
+              "ToolTip": "D:\\Suoc\\HotelManegement_WPFAPP\\Repository\\RoomInformationRepository.cs",
+              "RelativeToolTip": "Repository\\RoomInformationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T04:07:22.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotelManagementContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Suoc\\HotelManegement_WPFAPP\\DataAccessLayer\\Migrations\\HotelManagementContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\HotelManagementContextModelSnapshot.cs",
+              "ToolTip": "D:\\Suoc\\HotelManegement_WPFAPP\\DataAccessLayer\\Migrations\\HotelManagementContextModelSnapshot.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\HotelManagementContextModelSnapshot.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:49:00.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Suoc\\HotelManegement_WPFAPP\\DataAccessLayer\\appsettings.json",
+              "RelativeDocumentMoniker": "DataAccessLayer\\appsettings.json",
+              "ToolTip": "D:\\Suoc\\HotelManegement_WPFAPP\\DataAccessLayer\\appsettings.json",
+              "RelativeToolTip": "DataAccessLayer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T03:44:44.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

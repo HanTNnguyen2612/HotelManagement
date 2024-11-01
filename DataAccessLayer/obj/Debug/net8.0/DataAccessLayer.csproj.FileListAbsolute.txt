@@ -1,0 +1,52 @@
+E:\PRN212\HotelManegementSystem\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+E:\PRN212\HotelManegementSystem\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+E:\PRN212\HotelManegementSystem\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+E:\PRN212\HotelManegementSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN212\HotelManegementSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\PRN212\HotelManegementSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+E:\PRN212\HotelManegementSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\PRN212\HotelManegementSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+E:\PRN212\HotelManegementSystem\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+E:\PRN212\HotelManegementSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+E:\PRN212\HotelManegementSystem\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+E:\PRN212\HotelManegementSystem\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+E:\PRN212\HotelManegementSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+E:\PRN212\HotelManegementSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\PRN212\HotelManegementSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+E:\PRN212\HotelManegementSystem\DataAccessLayer\bin\Debug\net8.0\BussinessObject.dll
+E:\PRN212\HotelManegementSystem\DataAccessLayer\bin\Debug\net8.0\BussinessObject.pdb
+E:\PRN212\HotelManegementSystem\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\DataAccessLayer\bin\Debug\net8.0\BussinessObject.dll
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\DataAccessLayer\bin\Debug\net8.0\BussinessObject.pdb
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+D:\Suộc Tổng hợp\HotelManegement_WPFAPP-master\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\Suoc\HotelManegement_WPFAPP\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\Suoc\HotelManegement_WPFAPP\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+D:\Suoc\HotelManegement_WPFAPP\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Suoc\HotelManegement_WPFAPP\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Suoc\HotelManegement_WPFAPP\DataAccessLayer\bin\Debug\net8.0\BussinessObject.dll
+D:\Suoc\HotelManegement_WPFAPP\DataAccessLayer\bin\Debug\net8.0\BussinessObject.pdb
+D:\Suoc\HotelManegement_WPFAPP\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Suoc\HotelManegement_WPFAPP\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Suoc\HotelManegement_WPFAPP\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Suoc\HotelManegement_WPFAPP\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\Suoc\HotelManegement_WPFAPP\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Suoc\HotelManegement_WPFAPP\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\Suoc\HotelManegement_WPFAPP\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\Suoc\HotelManegement_WPFAPP\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\Suoc\HotelManegement_WPFAPP\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\Suoc\HotelManegement_WPFAPP\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+D:\Suoc\HotelManegement_WPFAPP\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
